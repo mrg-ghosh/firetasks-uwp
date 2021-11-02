@@ -1,7 +1,7 @@
 # Firetasks UWP
 # Getting Started with Firebase & React
 
-Demo at https://firetasks-uwp.web.app
+Demo at https://firetask-uwp.web.app
 
 This project was bootstrapped with \
 [Create React App](https://github.com/facebook/create-react-app) \
